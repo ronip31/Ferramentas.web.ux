@@ -1,0 +1,6 @@
+
+site reais geralmente utilizam estilos externos: 
+- Compartilhar com outras paginas
+
+- Cascading Style Sheets - folhas de estilos em "cascata"
+-
