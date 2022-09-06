@@ -3,4 +3,14 @@ site reais geralmente utilizam estilos externos:
 - Compartilhar com outras paginas
 
 - Cascading Style Sheets - folhas de estilos em "cascata"
--
+
+
+heigth - altura
+width - largura
+
+border
+margin
+padding
+
+<style>
+    * {   -- o * inclui todos.
