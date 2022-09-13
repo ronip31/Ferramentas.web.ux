@@ -1,0 +1,7 @@
+box-sizing: border-box; - alinha a borda do espaço definido como limite
+padding: 10px; - delimita o espaço entre colunas de texto
+.row { - pai do elemento - uma linha
+.col-lg-1, .col-lg-2, ... - significa cada coluna das 12 em uma pagina
+
+ctrl + Alt + seta baixo cursor em várias linhas.
+
